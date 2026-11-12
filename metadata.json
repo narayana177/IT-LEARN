@@ -1,0 +1,6 @@
+{
+  "name": "IT Learn",
+  "description": "Diploma C-23 educational application with syllabus, notes, question papers, and study materials. Powered by Narayana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+IT LEARN - DIPLOMA C-23 EDUCATIONAL APPLICATION
+Tagline: Learn • Practice • Grow
+Branding: Powered by Narayana
+
+APPLICATION METADATA:
+- Package Name / Application ID: com.aistudio.itlearn.c23edu
+- Version: 1.0 (Version Code: 1)
+- Min SDK: 24 (Android 7.0 Nougat)
+- Target SDK: 36 (Android 15+)
+- Primary Files:
+  * sru/IT_Learn.apk (Installable APK file)
+  * sru/IT_Learn.aab (Android App Bundle file)
+  * sru/app-debug.apk (Debug APK file)
+
+STUDENT ACCESS:
+- Direct access: No student login or registration required.
+- Access to 1st to 6th semester subjects, notes, syllabus, and question papers.
+- Offline downloads support to read documents without internet.
+
+ADMIN PANEL:
+- Discreet Admin portal accessed via the Lock/Shield icon in the top right.
+- Default Admin Passcode: c23admin
+- Admin permissions: Upload notes, question papers (Mid-1, Mid-2, Regular, Supply, Previous), study materials, and lab manuals.
